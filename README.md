@@ -27,7 +27,7 @@ Este projeto é um sistema de gerenciamento escolar. Ele permite a administraç�
 
 ### Meu Ponto de Vista
 
-> "Gostei bastante do curso, acho que seria melhor terem focado um pouco mais na parte de segurança, trazendo Auth0 ou tokens para deixar a segurança mais robusta, mas não foi o caso, espero que os próximos cursos eles adicionem."
+> "Gostei bastante do curso, mas acredito que poderia ter havido um foco maior na segurança. Seria interessante incluir tópicos sobre Auth0 ou tokens para fortalecer a segurança. Espero que nos próximos cursos esse aspecto seja abordado."
 
 ---
 
