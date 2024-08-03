@@ -1,0 +1,9 @@
+# Pastas
+__pycache__/
+venv/
+
+# Arquivos
+anotacoes.txt
+
+# Banco
+db.sqlite3
