@@ -29,6 +29,11 @@ Este projeto é um sistema de gerenciamento escolar. Ele permite a administraç�
 
 > "Gostei bastante do curso, mas acredito que poderia ter havido um foco maior na segurança. Seria interessante incluir tópicos sobre Auth0 ou tokens para fortalecer a segurança. Espero que nos próximos cursos esse aspecto seja abordado."
 
+### Ajustes feitos por mim
+- Versionamento das Rotas com index
+- Criação do Core e do ModelBase
+- Algumas funcionalidades do Admin (Busca, filtro, ordenação e autocomplete)
+
 ## Contato
 
 Para mais informações ou para discutir qualquer um dos repositórios, sinta-se à vontade para entrar em contato:
