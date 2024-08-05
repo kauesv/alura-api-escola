@@ -1,7 +1,6 @@
 
 from django.core.exceptions import ValidationError
 
-
 def validate_cpf(value):
     """Regras de validação do CPF"""
 
