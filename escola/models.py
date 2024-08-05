@@ -1,7 +1,7 @@
 from django.utils.translation import gettext_lazy as _  # Marca campos para tradução
 from django.core.validators import MinLengthValidator #quantidade minimo de caracteres
 from django.db import models
-from .validators import validate_cpf
+from .validators import validate_cpf, validate_nome, validate_celular
 from core.models import ModelBase
 
 
@@ -12,11 +12,11 @@ class Estudante(ModelBase):
         verbose_name_plural = _('Estudantes')
         #unique_together = ('cpf',)
 
-    nome = models.CharField(max_length = 100)
+    nome = models.CharField(max_length = 100, validators=[validate_nome])
     email = models.EmailField(blank = False, max_length = 30)
     cpf = models.CharField(max_length=11, null=True, blank=True, validators=[validate_cpf], unique=True)
     data_nascimento = models.DateField()
-    celular = models.CharField(max_length = 14)
+    celular = models.CharField(max_length = 14, validators=[validate_celular])
 
     def __str__(self):
         return self.nome
