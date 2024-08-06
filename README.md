@@ -19,7 +19,11 @@ Nesse repositório onde compartilho o resultado de cursos e aulas que participei
    - Authenticações e permissões
 
 2. Django REST Framework: trabalhando com validações, paginação, filtros e versionamento em uma API
-  - Estudando no momento ...
+   - Validação de campos;
+   - Dados simulados;
+   - Paginação e ordenação no admin e na API;
+   - Busca admin e API;
+   - Versionamento.
 
 ### Sobre o projeto
 
@@ -31,8 +35,8 @@ Este projeto é um sistema de gerenciamento escolar. Ele permite a administraç�
 
 ### Ajustes feitos por mim
 - Versionamento das Rotas com index
-- Criação do Core e do ModelBase
-- Algumas funcionalidades do Admin (Busca, filtro, ordenação e autocomplete)
+- Criação do app Core e seu ModelBase
+- Algumas funcionalidades do Admin
 
 ## Contato
 
