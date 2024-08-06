@@ -3,7 +3,7 @@ from escola.models import Estudante, Curso, Matricula
 
 
 class EstudanteAdmin(admin.ModelAdmin):
-    search_fields = ('nome',)
+    search_fields = ('nome', 'cpf',)
     ordering = ('-criado_em',)
     list_display = (
         'id',
