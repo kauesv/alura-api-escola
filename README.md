@@ -1,6 +1,7 @@
 # 📚 Bem-vindo ao repositório do curso da Alura 
 
 Nesse repositório onde compartilho o resultado de cursos e aulas que participei.
+Para o passo a passo da instalação do projeto veja o arquivo projeto.md
 
 ---
 
@@ -31,11 +32,7 @@ Este projeto é um sistema de gerenciamento escolar. Ele permite a administraç�
 
 ### Meu Ponto de Vista
 
-> "Gostei bastante do curso, mas acredito que poderia ter havido um foco maior na segurança. Seria interessante incluir tópicos sobre Auth0 ou tokens para fortalecer a segurança. Espero que nos próximos cursos esse aspecto seja abordado."
-
-### Ajustes feitos por mim
-- Criação do app Core e seu ModelBase
-- Algumas funcionalidades do Admin
+> "Gostei bastante do curso, mas acredito que poderia ter havido um foco maior na segurança. Seria interessante incluir tópicos sobre Auth0 ou tokens para fortalecer a segurança. Espero que nos próximos cursos esse aspecto seja abordado. Fiz algumas mudanças no projeto original do curso como a adição do app CORE por exemplo."
 
 ## Contato
 
